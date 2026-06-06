@@ -38,7 +38,7 @@ Three recent pieces line up:
 | Part | Reference | Notes |
 |---|---|---|
 | **Phone** | Pixel 10 Pro XL *(today)* → 11 Pro XL *(≈ Sep 2026)* | Pixel for the GPU-accelerated Linux GUI; model-agnostic chain |
-| **Glasses** | XReal 1S · Viture Luma Pro · Viture Beast | XReal X1 = built-in spatial/ultrawide (no app); Viture = SpaceWalker for multi-screen |
+| **Glasses** | XReal 1S · Viture Luma Ultra · Viture Beast | XReal X1 = built-in spatial/ultrawide (no app); Viture = SpaceWalker for multi-screen (Luma Ultra adds 6DoF/depth cameras) |
 | **Keyboard** | ProtoArc XK01 TP (AZERTY) | Tri-fold, full layout + integrated trackpad |
 
 > **Model-agnostic.** The software chain depends on **Android + AVF**, not a specific
