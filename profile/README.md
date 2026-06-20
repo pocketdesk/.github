@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/pocketdesk/brand/main/social/pocketdesk.png" alt="pocketdesk" width="720"></p>
+
 # pocketdesk
 
 **A pocket-sized Linux dev workstation — your phone is the computer, AR glasses are the screen, a folding keyboard is the input. No laptop.**
